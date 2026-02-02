@@ -1,24 +1,9 @@
 
-# AIG 230 – Lab 03
+# AIG 230 – Assignment 03
 ## Text Representation and Statistical Language Models
 
 ### Overview
-This lab covers text feature extraction and statistical language modeling.
+This is the assignment for completing the extra tasks in lab 3
 
-You will work with:
-- Bag-of-Words and TF-IDF
-- Text similarity and classification
-- Unigram, bigram, and trigram language models
-- Perplexity-based evaluation
-
----
-
-## Instructions
-
-1. Use this template repository.
-2. Create a repository named `aig230-lab03-yourname`.
-3. Complete both notebooks.
-4. Push all work to your repository.
-5. Submit the repository link on Blackboard.
-
----
+text_representation.ipynb is updated
+statistical_language_models.ipynb is updated

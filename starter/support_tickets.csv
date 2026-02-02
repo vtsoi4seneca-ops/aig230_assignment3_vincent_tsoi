@@ -1,0 +1,51 @@
+text,label
+"Service account password expired, batch jobs failing overnight",auth
+"Ethernet port LED blinking orange, no network connectivity detected",device
+ThinkPad T14s fan running at maximum speed constantly,device
+API gateway returning 429 Too Many Requests with valid rate limits,app
+"RSA SecurID token out of sync, generating invalid codes",auth
+Slack integration webhook failing with channel_not_found error,app
+SMTP relay authentication failing from legacy application server,messaging
+Teams screen sharing showing black screen for attendees,messaging
+Dell monitor flickering when connected via USB-C to HDMI adapter,device
+User added to security group but permissions not applying yet,auth
+Okta push notifications delayed by 5-10 minutes on iPhone,auth
+Packet loss exceeding 15% on fiber link to datacenter,network
+Laptop battery health degraded to 45% capacity in one year,device
+Load balancer health checks failing for pool web-servers-prod,network
+WiFi authentication failing for devices on Guest network,network
+"Proxy PAC file not loading, browsers bypassing corporate proxy",network
+SAP GUI transaction FBL1N timing out for large vendor lists,app
+Salesforce Lightning Experience slower than Classic for reports,app
+Kubernetes pod crash loop backoff for payment microservice,app
+"New hire cannot access Salesforce, getting insufficient privileges error",auth
+Remote desktop disconnects every 30 minutes over VPN tunnel,network
+Azure AD Conditional Access blocking login from approved location,auth
+Outlook cached mode not updating inbox since yesterday,messaging
+Wireless keyboard repeating keystrokes randomly,device
+External webcam not recognized in Zoom after driver update,device
+VPN client shows error 800 when connecting from home WiFi,network
+Confluence page editor javascript errors preventing save,app
+SharePoint notifications not arriving in Outlook focused inbox,messaging
+"BIOS update bricked laptop, stuck on Dell logo screen",device
+Cannot access internal wiki via wired connection but WiFi works,network
+Calendar delegation not showing assistant's scheduled meetings,messaging
+Active Directory account locked after 3 failed password attempts,auth
+Thermal printer printing blank labels after ribbon replacement,device
+Intermittent DNS resolution failures on subnet 10.0.4.0/24,network
+Teams messages stuck on sending with red exclamation mark,messaging
+High latency to AWS us-east-1 region starting this morning,network
+Database connection pool exhausted in customer portal,app
+iPad Pro not charging when docked in cradle,device
+Distribution list expansion failing for external recipients,messaging
+Jira Cloud throwing 503 Service Unavailable during sprint planning,app
+"Smart card reader not detected, cannot sign documents digitally",auth
+Email attachments over 10MB being rejected by gateway,messaging
+SSO integration with Confluence broken after certificate renewal,auth
+Elasticsearch cluster yellow status affecting search results,app
+Exchange Online mailbox showing 0x8004010F error in Outlook,messaging
+SSL inspection certificate errors on banking websites,network
+Custom PowerApp canvas app not loading on iOS devices,app
+Kerberos ticket renewal failing on macOS Big Sur,auth
+Voicemail to email conversion producing blank MP3 files,messaging
+Scanner producing PDFs with vertical lines on right side,device
